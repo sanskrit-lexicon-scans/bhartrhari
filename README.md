@@ -23,3 +23,7 @@ Provide access to Bhartṛhariśataka by śataka (1-4) and verse
 
 Example: https://sanskrit-lexicon-scans.github.io/bhartrhari/app2/?2,1
 
+## app3
+Provide access to Bhartṛhariśataka Supplement by section (1-25)
+
+Example: https://sanskrit-lexicon-scans.github.io/bhartrhari/app3/?20
